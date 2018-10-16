@@ -1,0 +1,4 @@
+version: '2'
+services:
+  16a552c98f74:
+    image: 'sha256:16a552c98f743d667665cd0e2e94e3d59d80b436e3513b90420ffecb8d3be980'
